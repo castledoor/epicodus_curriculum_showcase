@@ -1,0 +1,184 @@
+
+body {
+  background: url(../img/cinemagraph_cab.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  z-index: 2;
+
+}
+
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 960px;
+  height: 100%;
+}
+
+#logo {
+	position: relative;
+	left:88%;
+	width: 300px;
+	top: -20px;
+}
+
+#name {
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	font-size: 60px;
+	margin: 0px;
+	text-align: left;
+	position: relative;
+	top: -255px;
+	padding-top: 0px;
+}
+
+#subtitle2 {
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	top: -267px;
+	left: 15px;
+}
+
+header {
+	height: 250px;
+	position: absolute;
+	width: 81%;
+}
+
+
+#epicodus {
+	color: #A8221B;
+	text-decoration: none;
+
+}
+
+footer {
+	background: #A8221B;
+	width: 100%;
+	height:40px;
+	position:fixed;
+	bottom:0px;
+	margin:0px;
+	margin-bottom: -1px;
+	z-index: 1000;
+	opacity: .40;
+	left: 0px;
+}
+
+#jazzy {
+font-size: 99px;
+position: relative;
+top:8px;
+}
+
+.toggle, .toggle2, .toggle3, .toggle4 {
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	width: 200px;
+
+}
+
+p {
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	font-size: 20px;
+	position: relative;
+}
+
+.reveal, .reveal2, .reveal3, .reveal4 {
+	display: none;
+	text-align: center;
+	z-index: 1;
+	position: relative;
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	text-decoration: none;
+	
+}
+
+
+p.toggle:hover {
+    	color: #B89611;
+}
+p.toggle2:hover {
+    	color: #B89611;
+}
+p.toggle3:hover {
+    	color: #B89611;
+}
+p.toggle4:hover {
+    	color: #B89611;
+}
+
+
+#projects {
+	position: relative;
+	top:250px;
+	cursor: pointer; 
+	cursor: hand; 
+}
+
+#slideBG {
+	background-color: grey;
+	opacity: .5;
+	position: absolute;
+	z-index: -1;
+	width: 800px;
+	border-radius: 10px;
+	height: 341px;
+	left: 200px;
+	top:279px;
+	display: none;
+
+}
+
+#footer {
+	text-align: center;
+	position: relative;
+	bottom: 10px;
+	
+}
+
+
+
+#left{
+	float:left;
+	padding-left: 30px;
+	cursor: pointer; 
+	cursor: hand; 
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	text-decoration: none;
+}  
+
+#right{
+	float:right;
+	padding-right: 30px;
+	cursor: pointer; 
+	cursor: hand; 
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	text-decoration: none;
+
+}  
+
+a.reveal:hover {
+	text-align: center;
+	color: #A8221B;
+}
+
+p {
+	text-align: center;
+}

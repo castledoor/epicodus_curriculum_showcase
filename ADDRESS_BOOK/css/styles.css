@@ -1,0 +1,69 @@
+input#phone-number2, input#email-address2, input#location-address2 {
+  display: none;
+}
+
+.detail {
+  display: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.names {
+  font-size: 30px;
+}
+
+#buttons {
+  display: none;
+}
+
+h1 h2 {
+  text-align: center;
+}
+
+.edit, #submit-edit1{
+  display: none;
+}
+
+#edit {
+  padding-top: 1px;
+  padding-right: 1px;
+  padding-bottom: 1 px;
+  padding-left: 1px;
+}
+body {
+  text-align: left;
+}
+
+#top, #bottom, #left, #right {
+  background: #E01B5D;
+  position: fixed;
+  }
+  #left, #right {
+    top: 0; bottom: 0;
+    width: 15px;
+    }
+    #left { left: 0; }
+    #right { right: 0; }
+    
+  #top, #bottom {
+    left: 0; right: 0;
+    height: 15px;
+    }
+    #top { top: 0; }
+
+
+
+    @media 
+
+/* Fairly small screens including iphones */
+only screen and (max-width: 500px),
+
+/* iPads */
+only screen and (min-device-width: 768px) and (max-device-width: 1024px) 
+
+{
+  #top, #bottom, #left, #right { display: none; }
+}
+    #bottom { bottom: 0; }
