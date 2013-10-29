@@ -1,8 +1,3 @@
-// function factorOne(number) {
-//   var total = number * (number-1)
-//  return total
-// }
-
 function factor(number) {
   var result = 1;
   for (var i = number; i > 0; i--) {
@@ -13,13 +8,7 @@ function factor(number) {
 
 $(function() {
   $("form#factor").submit(function() {
-    var number = $("input#integer").val();
-
-    // if (parseInt(number) !== number) {
-    //     alert("That is not an integer");
-    //     $("#integer").val('');
-    //     return false;
-    // } 
+    var number = $("input#integer").val()
 
     if (!$.isNumeric(number) || number < 0 || number % 1 > 0) {   
       $("#result").hide();

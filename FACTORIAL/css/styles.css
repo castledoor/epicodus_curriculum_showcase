@@ -1,9 +1,29 @@
 header body footer {
    font-family: sans-serif;
+   text-align: center;
+}
+
+input[type="text"] {
+    height: 100px;
+    font-size: 60px;
+    color:#0BB58D;
+    position: relative;
+    left: 43px;
+}
+
+p {
+  font-weight: 400;
+  text-align: center;
+  font-size: 20px
+}
+
+#answer {
+  color: #0BB58D;
+  font-size: 60px;
 }
 
 #containerI{
-   background-color: #D14D4D;
+   background-color: #F5C63B;
    height: 200px;
    position: relative;
    top: 0px;
@@ -32,16 +52,15 @@ h1 {
 }
 
 .meat {
-  padding-top: 200px;
+  padding-top: 50px;
+  height: 230px;
 
 }
 
-.btn {
-  vertical-align: top;
-}
 
 #result {
   display: none;
+  font-size: 20px;
 }
 
 footer {
@@ -60,4 +79,33 @@ footer {
 #footer p {
   position: relative;
   top: 20px;
+}
+
+#result {
+  position: relative;
+  top: 60px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #DE1256;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  text-shadow: none;
+  border:none;
+  margin-bottom: -173px;
+  position: relative;
+  left: -118px;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #DE1256;
+  text-decoration: none;
+  color: white;
 }
