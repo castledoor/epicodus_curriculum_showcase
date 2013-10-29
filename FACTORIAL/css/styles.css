@@ -1,0 +1,63 @@
+header body footer {
+   font-family: sans-serif;
+}
+
+#containerI{
+   background-color: #D14D4D;
+   height: 200px;
+   position: relative;
+   top: 0px;
+   margin: 0px;
+   width: 100%;
+   text-align: center;
+}
+
+#containerII {
+   background-color: #F5C63B;
+   height: 600px;
+   position: relative;
+   top: 0px;
+   margin: 0px;
+   width: 100%;
+   text-align: center;
+   color: white;
+}
+
+h1 {
+  position: relative;
+  margin: 0px;
+  font-size: 68.5px;
+  color: white;
+  padding-top: 72px;
+}
+
+.meat {
+  padding-top: 200px;
+
+}
+
+.btn {
+  vertical-align: top;
+}
+
+#result {
+  display: none;
+}
+
+footer {
+  position: ;
+  background-color: #0BB58D ;
+  width: 100%;
+  height: 60px;
+  position:fixed;
+  bottom:0px;
+  margin:0px;
+  margin-bottom: -1px;
+  z-index: 1000;
+  color: white;
+}
+
+#footer p {
+  position: relative;
+  top: 20px;
+}
