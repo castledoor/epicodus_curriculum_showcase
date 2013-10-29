@@ -149,21 +149,3 @@ var number;
 
 });
   
-//   $("form#englishToLatin").submit(function() {
-
-//     var englishText = $("input#englishToLatinForm").val();
-//     $("input#englishToLatinForm").val()
-//     var finalTranslation = pigTranslate(englishText);
-//     $('.translation').empty().append(finalTranslation);
-//     $('input#englishToLatinForm').val("")
-//     return false;
-//   });
-// });
-
-// if (condition1) {
-//   code to be executed if condition1 is true
-// } else if (condition2) {
-//   code to be executed if condition2 is true
-// } else {
-//   code to be executed if neither condition1 nor condition2 is true
-// } 
