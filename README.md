@@ -31,5 +31,5 @@ some of the earlier projects I built during Epicodus (javascript)
 <p><strong>Week 8 Ruby introduction to ActiveRecord </strong></p>
 <p><strong>Week 9 - 12 Rails apps</strong></p>
 <p><strong>13-17 Internship w/ local company</strong></p>
-<p>Chicktech Project</p>
+<p><a href="https://github.com/epicodus/chicktech">Chicktech Project</a></p>
 
