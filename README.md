@@ -5,8 +5,8 @@ some of the earlier projects I built during Epicodus (javascript)
 
 
 <p><strong>Week 1 Javasript Basics </strong></p>
-  <p>LEAP YEAR</p>
-  <p>FACTORIAL</p>
+  <p><a href="http://thenextepicode.3owl.com/LEAP_YEAR/index.html">LEAP YEAR</a></p>
+  <p><a href="http://thenextepicode.3owl.com/FACTORIAL/Index.html">FACTORIAL</a></p>
   <p><a href="http://thenextepicode.3owl.com/NUMBERS_TO_WORDS/index.html">NUMBERS TO WORDS</a></p>
   <p><a href="http://thenextepicode.3owl.com/PIG_LATIN/index.html">PIG LATIN TRANSLATOR</a></p>
   <p><a href="http://thenextepicode.3owl.com/TRIANGLE/triangles.html">NAME THAT TRIANGLE</a></p>
