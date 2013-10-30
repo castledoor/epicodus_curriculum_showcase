@@ -1,0 +1,34 @@
+ul {
+  list-style-type: none;
+}
+
+
+
+.dividing-results {
+  padding-bottom: 15px;
+}
+
+form {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-right: 10px;
+}
+
+input#vid-search {
+ margin-right: 10px;
+}
+
+button.btn.btn-danger {
+  margin-bottom: 8px;
+
+}
+
+iframe {
+  position: absolute;
+  left: 400px;
+}
+
+#vidmachine-results{
+
+}

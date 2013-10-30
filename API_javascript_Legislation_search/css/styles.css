@@ -1,0 +1,150 @@
+.hiding {
+  display: none;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+#container {
+  width: 100%;
+  height: 100%;
+  margin:0;
+
+}
+
+#background-color {
+  margin-right: auto;
+  margin-left: auto;
+  height:840px;
+  background:#0EC9AA;
+  margin-top: 0;
+  margin:0;
+}
+
+body {
+  background-color: #0EC9AA;
+  opacity: .80;
+  margin-top: 0;
+}
+  
+h1{
+  text-align: center;
+  font-size: 4.75em;
+  margin-top: 0;
+  margin:0;
+}
+
+
+
+html { 
+  background: url("../img/legislate.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+margin:0;
+
+
+}
+
+input#zip {
+  width: 100px;
+  margin: auto;
+
+
+}
+
+input#zip {
+  width: 100px;
+  margin: auto;
+
+
+}
+form {
+  position: relative;
+  text-align: center;
+
+
+}
+
+form#get-zip{
+
+}
+
+button#lookUp {
+  position:relative;
+  top: 25px;
+  z-index: 200;
+  color: black;
+}
+
+
+h6 {
+  text-align: center;
+  font-weight: 900px;
+  color: #919493 !important;
+  padding-bottom: 20px;
+
+}
+
+footer {
+  height: 50px;
+
+}
+
+p {
+  color: #555959;
+}
+
+label {
+  font-size: 20px;
+}
+
+table {
+ 
+    background-color: white;
+    font-family: inherit;
+    border: 1px solid #cccccc;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    color: rgba(0, 0, 0, 0.75);
+    display: block;
+    font-size: 0.875em;
+    margin: 0 0 1em 0;
+    padding: 0.5em;
+    height: 2.3125em;
+    width: 60%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: -webkit-box-shadow 0.45s, border-color 0.45s ease-in-out;
+    -moz-transition: -moz-box-shadow 0.45s, border-color 0.45s ease-in-out;
+    transition: box-shadow 0.45s, border-color 0.45s ease-in-out;
+    margin: auto;
+    }
+ tr {
+   background-color: white;
+    font-family: inherit;
+    border: 1px solid #cccccc;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    color: rgba(0, 0, 0, 0.75);
+    display: block;
+    font-size: 0.875em;
+    margin: 0 0 1em 0;
+    padding: 0.5em;
+    height: 2.3125em;
+    width: 60%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: -webkit-box-shadow 0.45s, border-color 0.45s ease-in-out;
+    -moz-transition: -moz-box-shadow 0.45s, border-color 0.45s ease-in-out;
+    transition: box-shadow 0.45s, border-color 0.45s ease-in-out;
+    margin: auto;
+ }   
+
