@@ -1,7 +1,8 @@
 epicodus_portfolio
 ==================
 
-some of the earlier projects I built during Epicodus (javascript)
+<p>This repo is an outline of the course structure of Epicodus, and shows the progression of the class</p>
+<p>The following list is a breakdown of 90% of the projects that I completed during the 4 month course</p>
 
 
 <p><strong>Week 1 Javasript Basics </strong></p>
@@ -25,11 +26,18 @@ some of the earlier projects I built during Epicodus (javascript)
 
 <p><strong>Week 4 more JS OO</strong> </p>
 
-<p><strong>Week 5 Ruby Basic</strong></p>
-<p><strong> Week 6 Object Oriented Ruby</strong></p>
+<p><strong>Week 5 Ruby Basics (no front end)</strong></p>
+<p><strong> Week 6 Object Oriented Ruby (command line only)</strong></p>
 <p><strong>Week 7 Ruby + Postgres / SQL (command line only)</strong></p>
-<p><strong>Week 8 Ruby introduction to ActiveRecord </strong></p>
+<p><strong>Week 8 Ruby introduction to ActiveRecord (command line only)</strong></p>
 <p><strong>Week 9 - 12 Rails apps</strong></p>
+<p>TO DO LIST</p>
+<p>WIKIPAGES</p>
+<p>URLSHORTENER</p>
+<p>WATCH TOWER (instagram API)</p>
+<p>NERD NEWS (hacker news clone)</p>
+
+
 <p><strong>13-17 Internship w/ local company</strong></p>
 <p><a href="https://github.com/epicodus/chicktech">Chicktech Project</a></p>
 
