@@ -17,7 +17,7 @@ epicodus_portfolio
 <p>• address book </p>
 <p><a href="http://thenextepicode.3owl.com/OO_javascript_YACHT_DICE/index.html">• YACHT DICE</a></p>
 <p>• Go FISH <p>
-<p><a href="http://thenextepicode.3owl.com/OO_javascript_TO_DO_LIST/index.html">• To Do List</a><p>
+<p><a href="http://thenextepicode.3owl.com/OO_javascript_TO_DO_LIST/index.html">• TO DO LIST</a><p>
 
 <p><strong>Week 3 working with APIs</strong></p>
 <p>• Legislation Look up (api) </p>
