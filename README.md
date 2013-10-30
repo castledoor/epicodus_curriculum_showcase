@@ -49,6 +49,7 @@ epicodus_portfolio
 <p>• URLSHORTENER</p>
 <p>• WATCH TOWER (instagram API)</p>
 <p>• NERD NEWS (hacker news clone)</p>
+<p>• ONLINE MARKETPLACE</p>
 
 
 <p><strong>13-17 Internship w/ local company</strong></p>
