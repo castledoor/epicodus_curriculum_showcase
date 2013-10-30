@@ -44,7 +44,7 @@ epicodus_portfolio
 <p><strong>Week 7 Ruby + Postgres / SQL (command line only)</strong></p>
 <p><strong>Week 8 Ruby introduction to ActiveRecord (command line only)</strong></p>
 <p><strong>Week 9 - 12 Rails apps</strong></p>
-<p>• TO DO LIST</p>
+<p><a href="http://thenextepicode.3owl.com/OO_javascript_TO_DO_LIST/index.html">• TO DO LIST</a></p>
 <p>• WIKIPAGES</p>
 <p>• URLSHORTENER</p>
 <p>• WATCH TOWER (instagram API)</p>
