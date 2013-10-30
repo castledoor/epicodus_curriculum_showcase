@@ -15,7 +15,7 @@ h1, .lead {
   border-radius: 7px;
   width: 500px;
   margin: 0 auto;
-  background-color: #D65C5C;
+  background-color: black;
   font-size: 70px;
   color: #ffffff;
   display: none;
@@ -26,7 +26,7 @@ h1, .lead {
   border-radius: 7px;
   width: 500px;
   margin: 0 auto;
-  background-color: #47a447;
+  background-color: black;
   font-size: 70px;
   color: #ffffff;
   display: none;
