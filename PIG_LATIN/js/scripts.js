@@ -3,9 +3,9 @@ function isLetterVowel(letter)  {
   if (letter === 'a' || letter === 'e' || letter === 'i' || letter === 'o' || letter === 'u') {
 
     return true; 
-    } else { 
-      return false;
-    } 
+  } else { 
+    return false;
+  } 
 }
 
 function pigTranslateWord(englishWord) {
