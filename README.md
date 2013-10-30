@@ -6,23 +6,23 @@ epicodus_portfolio
 
 
 <p><strong>Week 1 Javasript Basics </strong></p>
-  <p><a href="http://thenextepicode.3owl.com/LEAP_YEAR/index.html">LEAP YEAR</a></p>
-  <p><a href="http://thenextepicode.3owl.com/FACTORIAL/Index.html">FACTORIAL</a></p>
-  <p><a href="http://thenextepicode.3owl.com/NUMBERS_TO_WORDS/index.html">NUMBERS TO WORDS</a></p>
-  <p><a href="http://thenextepicode.3owl.com/PIG_LATIN/index.html">PIG LATIN TRANSLATOR</a></p>
-  <p><a href="http://thenextepicode.3owl.com/TRIANGLE/triangles.html">NAME THAT TRIANGLE</a></p>
+  <p><a href="http://thenextepicode.3owl.com/LEAP_YEAR/index.html">• LEAP YEAR</a></p>
+  <p><a href="http://thenextepicode.3owl.com/FACTORIAL/Index.html">• FACTORIAL</a></p>
+  <p><a href="http://thenextepicode.3owl.com/NUMBERS_TO_WORDS/index.html">• NUMBERS TO WORDS</a></p>
+  <p><a href="http://thenextepicode.3owl.com/PIG_LATIN/index.html">• PIG LATIN TRANSLATOR</a></p>
+  <p><a href="http://thenextepicode.3owl.com/TRIANGLE/triangles.html">• NAME THAT TRIANGLE</a></p>
 
 
 <p><strong>Week 2 Object Oriented Javascript</strong></p>
-<p> address book </p>
-<p>YACHT DICE</p>
-<p> Go FISH <p>
-<p> To Do List <p>
+<p>• address book </p>
+<p>• YACHT DICE</p>
+<p>• Go FISH <p>
+<p>• To Do List <p>
 
 <p><strong>Week 3 working with APIs</strong></p>
-<p> Legislation Look up (api) </p>
-<p> Music info search (api) </p>
-<p> Youtube TV (api) </p>
+<p>• Legislation Look up (api) </p>
+<p>• Music info search (api) </p>
+<p>• Youtube TV (api) </p>
 
 <p><strong>Week 4 more JS OO</strong> </p>
 
@@ -31,13 +31,13 @@ epicodus_portfolio
 <p><strong>Week 7 Ruby + Postgres / SQL (command line only)</strong></p>
 <p><strong>Week 8 Ruby introduction to ActiveRecord (command line only)</strong></p>
 <p><strong>Week 9 - 12 Rails apps</strong></p>
-<p>TO DO LIST</p>
-<p>WIKIPAGES</p>
-<p>URLSHORTENER</p>
-<p>WATCH TOWER (instagram API)</p>
-<p>NERD NEWS (hacker news clone)</p>
+<p>• TO DO LIST</p>
+<p>• WIKIPAGES</p>
+<p>• URLSHORTENER</p>
+<p>• WATCH TOWER (instagram API)</p>
+<p>• NERD NEWS (hacker news clone)</p>
 
 
 <p><strong>13-17 Internship w/ local company</strong></p>
-<p><a href="https://github.com/epicodus/chicktech">Chicktech Project</a></p>
+<p>• <a href="https://github.com/epicodus/chicktech">Chicktech Project</a></p>
 
