@@ -26,7 +26,7 @@ epicodus_portfolio
 
 <p><strong>Week 4 more JS OO</strong> </p>
 
-<p><strong>Week 5 Ruby Basics (no front end)</strong></p>
+<p><strong>Week 5 Ruby Basics style="color:red" (no front end)</strong></p>
 <p><strong> Week 6 Object Oriented Ruby (command line only)</strong></p>
 <p><strong>Week 7 Ruby + Postgres / SQL (command line only)</strong></p>
 <p><strong>Week 8 Ruby introduction to ActiveRecord (command line only)</strong></p>
