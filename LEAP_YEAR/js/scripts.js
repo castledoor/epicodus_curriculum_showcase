@@ -17,9 +17,22 @@ function isLeapYear(year) {
 
 $(function() {
 	$("form#leapYear").submit(function() {
-  	 var year = $('input#year').val()
+  	var inputYear = $('input#year').val();
+    $("#answer").show();
+    var response = isLeapYear(inputYear);
+    if (response === false) {
+    	$("#answer").empty().append("NO");
+    } else {
+    	$("#answer").empty().append("YES");
+    }
+    $('input#year').val("");
+    return false;
+  }); 
+});
 
-  	$	
-	}
-})
+
+
+
+
+
 

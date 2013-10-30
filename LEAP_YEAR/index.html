@@ -2,6 +2,7 @@
 <html>
   <head>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
     <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>
@@ -9,9 +10,18 @@
   </head>
   <body class='container'>
   	<form id='leapYear'>
-   		<p> IS <input id='year' type="number"> A LEAP YEAR</p>
-    	<button type="submit" class="btn">?</button>
+   		<p> IS <input id='year' type="number" style="
+      font-size: 45px;  
+      color: #84888a; 
+      width: 120px; 
+      height: 56px;
+      margin-top: 0px;
+      "> A LEAP YEAR?</p>
+ <!--    #FIXME: NEED TO FIGURE OUT WHY INPUT DOES NOT RESPOND TO STYLESHEET -->
+
     </form>
-    <p><span id='result'></span>
+     <p><span id='answer'></span></p>
   </body>
   </html>
+
+
