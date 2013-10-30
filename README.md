@@ -14,7 +14,7 @@ epicodus_portfolio
 
 
 <p><strong>Week 2 Object Oriented Javascript</strong></p>
-<p>• address book </p>
+<p>•ADDRESS BOOK</p>
 <p><a href="http://thenextepicode.3owl.com/OO_javascript_YACHT_DICE/index.html">• YACHT DICE</a></p>
 <p>• Go FISH <p>
 <p><a href="http://thenextepicode.3owl.com/OO_javascript_TO_DO_LIST/index.html">• TO DO LIST</a><p>
