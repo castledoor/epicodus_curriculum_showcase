@@ -17,7 +17,7 @@ epicodus_portfolio
 <p>• address book </p>
 <p><a href="http://thenextepicode.3owl.com/OO_javascript_YACHT_DICE/index.html">• YACHT DICE</a></p>
 <p>• Go FISH <p>
-<p>• To Do List <p>
+<p><a href="http://thenextepicode.3owl.com/OO_javascript_TO_DO_LIST/index.html">• To Do List</a><p>
 
 <p><strong>Week 3 working with APIs</strong></p>
 <p>• Legislation Look up (api) </p>
@@ -44,7 +44,7 @@ epicodus_portfolio
 <p><strong>Week 7 Ruby + Postgres / SQL (command line only)</strong></p>
 <p><strong>Week 8 Ruby introduction to ActiveRecord (command line only)</strong></p>
 <p><strong>Week 9 - 12 Rails apps</strong></p>
-<p><a href="http://thenextepicode.3owl.com/OO_javascript_TO_DO_LIST/index.html">• TO DO LIST</a></p>
+<p>• TO DO LIST</p>
 <p>• WIKIPAGES</p>
 <p>• URLSHORTENER</p>
 <p>• WATCH TOWER (instagram API)</p>
