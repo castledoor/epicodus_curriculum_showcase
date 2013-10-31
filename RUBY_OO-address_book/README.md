@@ -1,1 +1,1 @@
-run `$ ruby address_book_interface.rb` to add contacts to an address book
+run `$ ruby address_book_interface.rb` in your command line to add contacts to an address book
