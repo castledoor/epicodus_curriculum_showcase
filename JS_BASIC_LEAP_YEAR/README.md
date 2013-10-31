@@ -9,7 +9,8 @@
 <p>then you have a leap year</p>
 
 
-<p>confused?  No problem I did the math for you here</p>
+<p>confused?  No problem I did the math for you here: http://thenextepicode.3owl.com/LEAP_YEAR/index.html</p>
+
 
 <p>Check to see if this year is a leap year</p>
 
