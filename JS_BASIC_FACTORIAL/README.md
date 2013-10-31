@@ -1,3 +1,10 @@
-In mathematics, the factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. For example,
-5! = 5  \times  4  \times  3  \times  2  \times  1 = 120.  \ 
+fac·to·ri·al
+fakˈtôrēəl
+noun MATHEMATICS
+
+the product of an integer and all the integers below it; e.g., factorial four ( 4! ) is equal to 24.
+
+This program caluculates the factorial of any number
+
+http://thenextepicode.3owl.com/FACTORIAL/Index.html
 
