@@ -42,7 +42,10 @@ epicodus_portfolio
 <p>• ENTER WORDS INTO DICTIONARY</p>
 <p>• DIE ROLL</p>
 <p><strong>Week 7 Ruby + Postgres / SQL (command line only)</strong></p>
+<p>• ADDRESS BOOK</p>
 <p><strong>Week 8 Ruby introduction to ActiveRecord (command line only)</strong></p>
+<p>• EMPLOYEE LOG & ACTIVITY TRACKER</p>
+<p>• EXPENSE ORGANIZER</p>
 <p><strong>Week 9 - 12 Rails apps</strong></p>
 <p>• TO DO LIST</p>
 <p>• WIKIPAGES</p>
