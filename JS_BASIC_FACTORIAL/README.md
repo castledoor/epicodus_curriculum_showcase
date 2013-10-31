@@ -1,10 +1,8 @@
-fac·to·ri·al
-fakˈtôrēəl
-noun MATHEMATICS
+<p><strong>fac·to·ri·al</strong></p>
 
-the product of an integer and all the integers below it; e.g., factorial four ( 4! ) is equal to 24.
+<p>Definition: the product of an integer and all the integers below it; e.g., factorial four ( 4! ) is equal to 24.</p>
 
-This program caluculates the factorial of any number
+<p>This program caluculates the factorial of any number</p>
 
-http://thenextepicode.3owl.com/FACTORIAL/Index.html
+<p>http://thenextepicode.3owl.com/FACTORIAL/Index.html</p>
 
