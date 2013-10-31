@@ -41,6 +41,7 @@ epicodus_portfolio
 <p>• NAME THAT TRIANGLE</p>
 <p>• ENTER WORDS INTO DICTIONARY</p>
 <p>• DIE ROLL</p>
+<p>• ADDRESS BOOK</p>
 <p><strong>Week 7 Ruby + Postgres / SQL (command line only)</strong></p>
 <p>• ADDRESS BOOK</p>
 <p><strong>Week 8 Ruby introduction to ActiveRecord (command line only)</strong></p>
