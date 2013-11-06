@@ -52,7 +52,7 @@ epicodus_portfolio
 <p>• WIKIPAGES</p>
 <p>• URLSHORTENER</p>
 <p>• WATCH TOWER (instagram API)</p>
-<p>• <a href="https://github.com/castledoor/posts_of_interest> POSTS OF INTEREST (hacker news clone)</a></p>
+<p>• <a href="https://github.com/castledoor/posts_of_interest">POSTS OF INTEREST (HACKERNEWS CLONE)</a></p>
 <p>• ONLINE MARKETPLACE</p>
 
 
