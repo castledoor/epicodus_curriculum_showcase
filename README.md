@@ -50,7 +50,7 @@ epicodus_portfolio
 <p><strong>Week 9 - 12 Rails apps</strong></p>
 <p>• TO DO LIST</p>
 <p>• WIKIPAGES</p>
-<p>• URLSHORTENER</p>
+<p>• <a href="http://github/castledoor/URLY"> URLSHORTENER</a></p>
 <p>• WATCH TOWER (instagram API)</p>
 <p>• <a href="https://github.com/castledoor/posts_of_interest">POSTS OF INTEREST (HACKERNEWS CLONE)</a></p>
 <p>• ONLINE MARKETPLACE</p>
